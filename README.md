@@ -1,7 +1,7 @@
 ## Olá, eu sou a Mariana Leão!
 
--Tenho 17 anos
-- Sou estudante de programação
-- Estudo C#, HTML, CSS e comecei WordPress
+- 17 anos
+- Estudante de engenharia de software
+- Possuo o foco na área de dados
 
 
