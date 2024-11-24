@@ -2,6 +2,5 @@
 
 - 19 anos
 - Estudante de engenharia de software
-- Possuo o foco na área de dados
 
 
