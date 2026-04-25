@@ -2,7 +2,11 @@
 
 **`Cloud Intern`**
 
-Me chamo Mariana Leão, tenho 20 anos e de São Paulo. Atualmente, faço Engenharia de Software na UMC.
+Me chamo Mariana Leão, tenho 20 anos e sou de São Paulo. Atualmente, curso Engenharia de Software na Universidade UMC.
+
+No momento, venho me dedicando aos estudos em Cloud Computing, com foco no ecossistema AWS, área pela qual tenho grande interesse. Até o momento, possuo as certificações AWS Certified Cloud Practitioner e AWS Certified Solutions Architect – Associate.
+
+Além da área de nuvem, também busco aprofundar meus conhecimentos por meio de estudos contínuos e da prática no dia a dia, sempre com foco em evolução técnica e desenvolvimento profissional.
 
 ---
 
