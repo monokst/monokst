@@ -6,7 +6,7 @@ Me chamo Mariana Leão, tenho 20 anos e de São Paulo. Atualmente, faço Engenha
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### ✨ Linguagens e Tecnologias
 
 <img 
     align="left" 
