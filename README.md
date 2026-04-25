@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Mariana Leão
 
-**`Desenvolvedora FullStack`**
+**`Cloud Intern`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e de São Paulo. Atualmente, faço Engenharia de Software na UMC.
+Me chamo Mariana Leão, tenho 20 anos e de São Paulo. Atualmente, faço Engenharia de Software na UMC.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
