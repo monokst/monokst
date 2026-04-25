@@ -31,8 +31,8 @@ Me chamo Mariana Leão, tenho 20 anos e de São Paulo. Atualmente, faço Engenha
     title="AWS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+    />
 <img 
     align="left" 
     alt="Java" 
@@ -66,6 +66,15 @@ Me chamo Mariana Leão, tenho 20 anos e de São Paulo. Atualmente, faço Engenha
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+    />
 
 <br/>
 <br/>
